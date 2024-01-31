@@ -9,8 +9,8 @@ Welcome to the Excel Data Analysis Projects repository! In this collection, we e
 ### 1. Music Industry Revenue Over Time
    Explore the historical revenue trends in the music industry. Analyze sales data, streaming statistics, and market share over the years. Uncover insights into the evolution of the music business.
 
-   - Data Sources: [Music Industry Dataset]
-   - Techniques: Time Series Analysis, PivotTables, Charts
+   - Data Sources: US_Music_Revenues.xlsx
+   - Techniques: Time Series Analysis, Charts
 
 ### 2. Maven Career Data Analysis
    Dive into career data for Maven employees. Analyze employee performance, growth trends, and skill development. Gain valuable insights to enhance career development strategies.
